@@ -127,11 +127,11 @@ I recommend starting with **C** as it's a powerful language that will significan
 2. [**C++ Data Structures Course by Adel Nassim**](https://youtube.com/playlist?list=PLCInYL3l2AajqOUW_2SwjWeMwf4vL4RSp&si=vRjLf5De5fDrgBpZ)
    - _Covered many topics but you need to review first "Pointers" specially "Pointer to Structure"_
 3. [**ITI: C++ Data Structures Lectures by Eng. Ahmed Mamdouh - Google Drive**](https://drive.google.com/drive/folders/1p6BVDUR8Pzjxs0q2iuxiXF95eiK5oRKp?usp=drive_link)
-   _need to see one of the previous points_
+   - _need to see one of the previous points_
 4. [**FreeCodeCamp: C/C++ Data Structures Course**](https://youtu.be/B31LgI4Y4DQ?si=EokHSvAyeYnwXY0z)
 5. [**C Data Structures Course by Dr. Waleed Youssef**](https://youtube.com/playlist?list=PLoK2Lr1miEm-5zCzKE8siQezj9rvQlnca&si=kH82xi3j6e_p9FF-)
 6. **C# Data Structures and Algorithm Course by Eng. Ahmed Metwally** [Visit the Facebook Account](https://www.facebook.com/ahmed.metwally.official)
-   _but I recommend to you a hand-written pointer like C or C++_
+   - _but I recommend to you a hand-written pointer like C or C++_
 7. **JavaScript Data Structures and Algorithm Courses**:
    - [Udemy Course](https://www.udemy.com/share/101X5s/)
    - [Arabic Course](https://youtube.com/playlist?list=PL9A8dCb7QSFEqrSfT9vCSJUS8IU4g1j2g&si=k3Gz16sh_t5jIXgK)
