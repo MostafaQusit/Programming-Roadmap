@@ -140,8 +140,7 @@ I recommend starting with **C** as it's a powerful language that will significan
 
 6. [**C Data Structures Course by Dr. Waleed Youssef**](https://youtube.com/playlist?list=PLoK2Lr1miEm-5zCzKE8siQezj9rvQlnca&si=kH82xi3j6e_p9FF-)
 
-7. **C# Data Structures and Algorithm Course by Eng. Ahmed Metwally**  
-   [Visit the Facebook Account](https://www.facebook.com/ahmed.metwally.official)
+7. **C# Data Structures and Algorithm Course by Eng. Ahmed Metwally** [Visit the Facebook Account](https://www.facebook.com/ahmed.metwally.official)
    - _but I recommend to you a hand-written pointer like C or C++_
 
 8. **JavaScript Data Structures and Algorithm Courses**:
