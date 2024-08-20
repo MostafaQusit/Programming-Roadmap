@@ -20,25 +20,22 @@ As the saying goes, in any field, to master your work, you need to have a strong
 
 The main issue is often in the basics because the knowledge builds upon itself. But I'll try to send you some links and a learning path, but keep in mind that the effort is needed from your side too. You need to explore and learn on your own as well.
 
-
-## Recommended Resources for Beginners (Non-CE Graduates)
-
-If you're not a Computer Engineering (CE) graduate and you're struggling with the basics, the following resources will help you build a strong foundation:
-
 ### **Step 1: Understanding Basic Concepts**
+- _If you're not a Computer Engineering (CE) graduate and you're struggling with the basics, the following resources will help you build a strong foundation:_
 
 1. [**Introduction to Computer Science for Non-CE Graduates by Dr. Mostafa Saad**](https://www.youtube.com/watch?v=JkcmNrdhjMs&t=1387s)
 2. [**ITI: Software Development Course**](https://youtube.com/playlist?list=PLAowHBw9BCw7nXmpoevaOhk6kGmB9MQC5&si=7SdlhxpkrL-cqlFC)
 3. **Additional Resources for Building Fundamentals**:
    - [Number Systems Course](https://www.youtube.com/playlist?list=PLRt03R7mo3r7CaJnVivja6gwC7wNE9Mx6)
-     - _If you're having trouble understanding number systems, this playlist explains it in detail._
+      - _If you're having trouble understanding number systems, this playlist explains it in detail._
    - [Basic Electronics Course](https://www.youtube.com/playlist?list=PLww54WQ2wa5rOJ7FcXxi-CMNgmpybv7ei)
-     _Review basic electronics concepts alongside the practical electronics course mentioned above._
+      _Review basic electronics concepts alongside the practical electronics course mentioned above._
    - [History of computers](https://youtu.be/ExdlU2zwvyM?si=nn6SVLaxSMJsF7lz)
    - [Computer Architecture Course by Hossam Khiary](https://www.youtube.com/playlist?list=PLnuGsFrZykEpdxjJPBkoS8aZ0ypyM4rK8)
    - [First step to study programming](https://youtu.be/r-zQtvKiiCI?si=4FO6_BYsQFefB0Kp)
    - [My choice of OS](https://youtu.be/z1-yuolwrVs?si=R58UUGNKwe4cMDUQ)
    - [Introduction to Programming Basics for Beginners Course || Programming Literacy (Python)](https://youtu.be/06h470AiBZ4?si=9pRGEVOKZrwpp2xc)
+ 
 
 ### **Step 2: Operating Systems**
    - _the layer between app and hardware._
@@ -115,7 +112,7 @@ I recommend starting with **C** as it's a powerful language that will significan
 >    - _An organized learning path on Clean Code, Test-Driven Development, Legacy Code, Refactoring, Domain-Driven Design and Microservice Architecture, and much more._
 
 
-### **Step 5: Operating Systems**
+### **Step 5: Operating Systems (Advanced)**
 
 [**ITI: Windows/Linux OS Course - Google Drive**](https://drive.google.com/drive/folders/1yq1APdUVWRWdid698PN11XyZMiu4D3LZ?usp=drive_link)
 
