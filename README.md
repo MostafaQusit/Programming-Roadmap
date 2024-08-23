@@ -3,7 +3,6 @@
 > [!NOTE]
 > Any link to educational content is from YouTube unless otherwise noted.
 
-
 ## Programming Fundamentals: Why They Are Crucial
 
 ### The Importance of Fundamentals in Learning Programming
@@ -94,17 +93,20 @@ I recommend starting with **C** as it's a powerful language that will significan
 
 #### - **Object-Oriented Programming (OOP):**
 
-1. **C++ programming language**
+1. **C++ OOP programming language**
    - [**ITI: C++ OOP Course - Google Drive**](https://drive.google.com/drive/folders/1p_KpAUZ9m5SpBmxywfnVxZbEcXZ-kgT7?usp=drive_link)
    - [**C++ OOP Course by Dr. Al-Desouki**](https://youtube.com/playlist?list=PL1DUmTEdeA6KLEvIO0NyrkT91BVle8BOU&si=jPW8fjvGX1S0HJHL)
+   - [**C++ OOP Course by Adel Nasim**](https://youtube.com/playlist?list=PLCInYL3l2Aaiq1oLvi9TlWtArJyAuCVow&si=u0ivlwNv1HLZAxgH)
 
 2. **I case of enroll in .NET**
    - **C# Syntax Overview**
    - [**ITI: C# OOP Lectures by Eng. Ahmed Mamdouh**](https://drive.google.com/drive/folders/1WbY2Doyapd6FJmM1-vU7A-0VutZMluS-?usp=drive_link)
    - [**ITI: C# OOP Lectures by Eng. Tharwat**](https://drive.google.com/drive/folders/18rQlFxVLuzE1B-hLyt3AITyQbPwnz8ZA?usp=drive_link)
 
-3. **JavaScript**
-   - _I will talk about it in Web Development Section as you need to study Data structures first beore it_
+3. **JavaScript OOP**
+   - **JavaScript Syntax Overview**
+      - [by Abdelrahman Gamal]()
+   - [ITI: Intro to Prog. & OOP using JS - Google Drive](https://drive.google.com/drive/folders/1uV9yvlpvGORXvb3UHl0hr4sbl5zgySJb?usp=drive_link)
 
 > [!NOTE]
 > After finish Programming Languages Step, this Repository has great docs about important topics
@@ -130,6 +132,7 @@ I recommend starting with **C** as it's a powerful language that will significan
 6. **C# Data Structures and Algorithm Course by Eng. Ahmed Metwally** [Visit the Facebook Account](https://www.facebook.com/ahmed.metwally.official)
    - _but I recommend to you a hand-written pointer like C or C++_
 7. **JavaScript Data Structures and Algorithm Courses**:
+   - [ZTM Course](https://zerotomastery.io/courses/learn-data-structures-and-algorithms/?fbclid=IwY2xjawE1hJRleHRuA2FlbQIxMAABHbjshbLnY3TzjRvwYVsImsJWokG6w2yKgY-NWEQ-6GS_TmELRoxygyVRpQ_aem_boiulr5CigyG67gWqSCGsg)
    - [Udemy Course](https://www.udemy.com/share/101X5s/)
    - [Arabic Course](https://youtube.com/playlist?list=PL9A8dCb7QSFEqrSfT9vCSJUS8IU4g1j2g&si=k3Gz16sh_t5jIXgK)
 
@@ -161,7 +164,7 @@ I recommend starting with **C** as it's a powerful language that will significan
    - [**Practical Part (MS SQL Server**](https://youtube.com/playlist?list=PL1DUmTEdeA6J6oDLTveTt4Z7E5qEfFluE&si=BlvZKmDtxZNcSAPD)
       - _Check his Channel for Oracle_
 
-2. **ITI: Database Courseby Eng. Ramy**
+2. **ITI: Database Course by Eng. Ramy**
       - _if you interested in Web development_ 
    - [Course Link](https://youtube.com/playlist?list=PLAowHBw9BCw5b56-SfY7tgndHbGcQycp2&si=KhgEE54hzpd8IPNB)
    - [Practice Tasks](https://drive.google.com/drive/folders/1pt_I5AoF85jDwd9j8MZwrO-sNp_JP1n1?usp=drive_link)
@@ -186,33 +189,162 @@ I recommend starting with **C** as it's a powerful language that will significan
 3. [**SQL Practice**](https://www.sql-practice.com)
 
 
-## Common Sofware Tracks 
 
-### **Web Development Basics**
 
-1. **HTML & CSS**:
-   - **Elzero**
-   - **by Abdelrahman Gamal**
-   - [Build Responsive Real-World Websites with HTML and CSS - Udemy](https://www.udemy.com/share/101Wtc/)
-   - [Advanced CSS and Sass: Flexbox, Grid, Animations and More! - Udemy](https://www.udemy.com/share/101Wkw/)
-      - _if you enrolled in Front-End Track_
-   - [SuperSimpleDev: HTML & CSS Full Course](https://youtu.be/G3e-cpL7ofc?si=1iYlUvMrWRdVxDxR)
+## Common Sofware Tracks Bascis
 
-3. **JavaScript**:
-   - **JS Course by Eng. Ahmed Essam**  
-     [Watch the Playlist](https://www.youtube.com/playlist...)
-   - [SuperSimpleDev: JavaScript Tutorial Full Course](https://youtu.be/G3e-cpL7ofc?si=3Sou6Qe8zS0cowfu)
+### **Web Development**
 
+- **Fornt-End**
+
+   <table>
+       <thead align=center>
+           <tr>
+               <th rowspan=2>Language</th>
+               <th colspan=2>Preprocessor</th>
+               <th rowspan=2>Framework</th>
+               <th rowspan=2>HTTP</th>
+               <th rowspan=2>Package Manager</th>
+           </tr>
+           <tr>
+               <th>Bundler</th>
+               <th>Transpiler</th>
+           </tr>
+       </thead>
+       <tbody align=center>
+           <tr>
+               <td>HTML</td>
+               <td></td>
+               <td></td>
+               <td></td>
+               <td></td>
+               <td></td>
+           </tr>
+           <tr>
+               <td>CSS</td>
+               <td colspan=2>SASS</td>
+               <td>Bootstrap</td>
+               <td></td>
+               <td></td>
+           </tr>
+           <tr>
+               <td>JavaScript</td>
+               <td>Webpack</td>
+               <td>Typescript</td>
+               <td>React.JS <br>
+                  Angular <br>
+                  Vue.JS</td>
+               <td>axios <br> fetch</td>
+               <td>npm</td>
+           </tr>
+       </tbody>
+   </table>
+
+   1. **HTML & CSS**:
+      - **Elzero**
+         - [HTML And CSS Template 1](https://youtube.com/playlist?list=PLDoPjvoNmBAzHSjcR-HnW9tnxyuye8KbF&si=tTopXOXG9h4RPqB7)
+         - [HTML And CSS Template 2](https://youtube.com/playlist?list=PLDoPjvoNmBAy1l-2A21ng3gxEyocruT0t&si=lXZgmd8oYVFxfZ6d)
+         - [HTML And CSS Template 3](https://youtube.com/playlist?list=PLDoPjvoNmBAxuCSp2_-9LurPqRVwketnc&si=_XU1BOUQ3pklJ8GV)
+         - [HTML And CSS Template 4](https://youtube.com/playlist?list=PLDoPjvoNmBAyGaRGzPVZCkYx5L7Mo9Tbh&si=pO1IJKXeYjkvUBvj)
+      - [**HTML/CSS/JavaScript projects by Abdelrahman Gamal**](https://youtube.com/playlist?list=PLknwEmKsW8Otkp3ax3DWDWQufKy4RirWO&si=kNIpvAu8Wt0UOZud)
+      - **by jonas**
+         - [Build Responsive Real-World Websites with HTML and CSS - Udemy](https://www.udemy.com/share/101Wtc/)
+         - [Advanced CSS and Sass: Flexbox, Grid, Animations and More! - Udemy](https://www.udemy.com/share/101Wkw/)
+            - _if you enrolled in Front-End Track_
+      - [SuperSimpleDev: HTML & CSS Full Course](https://youtu.be/G3e-cpL7ofc?si=1iYlUvMrWRdVxDxR)
+   
+   2. **JavaScript**:
+      - [Elzero: Learn JavaScript in Arabic 2021 Course](https://youtube.com/playlist?list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv&si=SETPbrywWb2HZ4EE)
+      - [Javascript Tutorial Full Course by Abdelrahman Gamal](https://youtube.com/playlist?list=PLknwEmKsW8OuTqUDaFRBiAViDZ5uI3VcE&si=wCr5mPMyLGgufOG3)
+
+      if you do not have language barriers, but before diving into these resources, it's recommended to start with one of previous content first:
+      - [The Complete JavaScript Course 2024 by Jonas](https://www.udemy.com/course/the-complete-javascript-course/)
+      - [JavaScript - The Complete Guide 2024 Course by Maximilian](https://www.udemy.com/share/1029Rk/)
+      - FreeCodeCamp:
+          - [YouTube Channel](https://www.youtube.com/@freecodecamp)
+      - [SuperSimpleDev: JavaScript Tutorial Full Course](https://youtu.be/G3e-cpL7ofc?si=3Sou6Qe8zS0cowfu)
+      
+      **Translation Tool:** If you have language difficulties, use this [Chrome Extension](https://chromewebstore.google.com/detail/ejoy-ai-dictionary/amfojhdiedpdnlijjbhjnhokbnohfdfb?authuser=1&fbclid=IwY2xjawE1iXtleHRuA2FlbQIxMAABHV2j10uInBmJSExg42R9lji2ayZ2ovedsqGE1HPDs6-6imAyufZkIw5s4w_aem_X7CQ4IYFCi_u9sZFSIPEHw)
+      
+      **Tips for Studying must be covered**:
+         1. **Hoisting:** Study hoisting to understand how JavaScript works internally.
+         2. **Solve Problems:** Practice basic exercises on [W3Resource](https://www.w3resource.com/javascript-exercises/javascript-basic-exercises.php?fbclid=IwY2xjawE1ia9leHRuA2FlbQIxMAABHTk5sshxCmVTSvqTobD-gNkcpxiV90wxdnMet3Tha-jWM4NjiIQjzax2OQ_aem_wR0pxijxxw4GxsM1i5bSLQ)
+         3. **Study Events:** Understand different types of events on these websites:
+            - [W3Schools](https://www.w3schools.com/js/js_events.asp)
+            - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events?fbclid=IwY2xjawE1idhleHRuA2FlbQIxMAABHYlnMqkne8yn9_tQE7kpGNRdwgmzIm-XAZHLtWYKosmprjYMYXsf2CVELA_aem_qwr_Td1rgLkeCxv75ZiZAQ)
+         4. **ES6 Update:** Learn the differences introduced in ES6 and how they impact JavaScript development, for example: you can implement OOP using JS by:
+            - construction function
+            - `object.create()`
+            - ES6 class (cosider as a syntax suger to "construction function")
+         5. **Cover Advanced Topics:** Topics like stack, heap, closures, and scopes, and the difference between regular function and arrow function when using `this` (therefore we avoid using arrow function in any method).
+         6. **Data Structures in JS:** Learn and differentiate between [array, set] and [map, object].
+         7. **Asynchronous Programming:** Study async, await, promise, and fetch.
+            - but first you need to be familiar with **JSON** and **AJAX**. It's important to know that AJAX can be implemented in three different ways:
+               1. Native JS
+               2. jQuery
+               3. `fetch`
+         8. **Advanced Concepts:** Topics like Webpack, Babel, and npm are important for JS developers.
+         9. **Problem Solving:** Practice JS by solving problems and working with DOM.
+            - [W3Resource - JS Exercises](https://www.w3resource.com/javascript-exercises/javascript-basic-exercises.php?fbclid=IwY2xjawE1japleHRuA2FlbQIxMAABHeo1Cu7uG3Pe5KKHEaFqnoe4lKdrC-R2muCWfw_hE3aLZsmuU624WF3EEw_aem_1oR_7k8vAgoqE5hksrUk2w)
+            - Follow any reputable channels on YouTube for DOM practice.
+            - [GitHub - Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) An excellent resource to improve your code quality.
+
+      **Frameworks**:
+         - [**FreeCodeCamp: React Course 2022**](https://youtu.be/bMknfKXIFA8?si=2KHbKCc64zOmQRnk)
+
+
+- **Back-End**
+  
+     <table>
+       <thead align=center>
+           <tr>
+               <th>Language</th>
+               <th>Framework</th>
+               <th>Package Manager</th>
+           </tr>
+       </thead>
+       <tbody align=center>
+           <tr>
+               <td>JavaScript(Node.JS)</td>
+               <td>Express.JS <br>
+                   Meteor <br>
+                   Kao.JS <br>
+                   Nest.JS</td>
+               <td>npm</td>
+           </tr>
+           <tr>
+               <td>Python</td>
+               <td>Django <br>
+                   Flask</td>
+               <td>pip</td>
+           </tr>
+           <tr>
+               <td>Ruby</td>
+               <td>Ruby on Rails (Rails) <br>
+                   Sinatra</td>
+               <td>Bundler</td>
+           </tr>
+           <tr>
+               <td>Java</td>
+               <td>SpringBoot<br>
+                   Hibernate</td>
+               <td>Maven</td>
+           </tr>
+       </tbody>
+   </table>
+   
+   - API
+
+
+- **Full Stack**:
+   - [**ITI: MEAN Stack Course - Google Drive**](https://drive.google.com/drive/folders/1Pcv3XH7XL4TEbMEJqOQLNBK-INsgR5In?usp=drive_link)
+  
 > [!NOTE]
 > **If want to continue in Web Track, I recommend to you this Playlist**
 > [Beyond the basics](https://youtube.com/playlist?list=PL9ExMy1CBZjnsv2WXFKxXNf41iT1pdT2Q&si=jJJnFrfsXm7O1CGI)
 
-4. **Front-End**:
-   - [**React Course**]()
-     
-6. **Full Stack**:
-   - [**ITI: MEAN Stack Course - Google Drive**](https://drive.google.com/drive/folders/1Pcv3XH7XL4TEbMEJqOQLNBK-INsgR5In?usp=drive_link)
-  
+
+
 
 ### **Embedded Systems**
  - [Embedded Systems Campaines in Egypt - Google Sheet](https://docs.google.com/spreadsheets/d/1lBPSQ3yZEEMO3MmpxWzUJdor6vqfEBv6chjb4CWJd3k/edit?usp=drive_link)
@@ -224,18 +356,20 @@ I recommend starting with **C** as it's a powerful language that will significan
 3. [**Eng. Ahmed Abdel Ghafar - Recorded(Google Drive)**](https://docs.google.com/document/d/1X7FlRX-Re-GHMI3wuXc9e37jJEGl_DlxNb-6NCMlmgo/edit?usp=drive_link)
    - Embedded Systems
    - Advanced: Automotive OSEK/VDX OS
+      - [Advanced Communications Tutorials by Ahmed Eldeeb](https://youtube.com/playlist?list=PLPFp2zIiTnxWaZioZMFrb2Cw1wiacD_oT&si=WEJk3QNgliZjoUiB)
+      - [STM32 ETHERNET Tutorials](https://youtube.com/playlist?list=PLfIJKC1ud8ggZKVtytWAlOS63vifF5iJC&si=rq3svP3vSW-m0p8b)
    - Advanced: Introduction to Automotive Cybersecurity
 4. [**Embedded Linux by Eng. Moatasem - Live & Recorded**](https://docs.google.com/document/d/13DxCC0XP19mPhUORIC2ljhNbVNVACrw-dzXzWBJKTFs/edit?usp=drive_link)
 
 
 ## Resources
-- **FreeCodeCamp**
+- [**FreeCodeCamp**](https://www.youtube.com/@freecodecamp)
 - **ITI**
 - **SimpleSuperDev**
 - **Elzero**
 - **Dr. Al-Desouki**
 - **Programming with Mosh**
-- **Elzero**
+- **ZTM**
 
 ## Conclusion
 
