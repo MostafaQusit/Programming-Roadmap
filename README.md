@@ -205,6 +205,7 @@ I recommend starting with **C** as it's a powerful language that will significan
                <th rowspan=2>Framework</th>
                <th rowspan=2>HTTP</th>
                <th rowspan=2>Package Manager</th>
+               <th rowspan=2>Library</th>
            </tr>
            <tr>
                <th>Bundler</th>
@@ -219,11 +220,13 @@ I recommend starting with **C** as it's a powerful language that will significan
                <td></td>
                <td></td>
                <td></td>
+               <td></td>
            </tr>
            <tr>
                <td>CSS</td>
                <td colspan=2>SASS</td>
-               <td>Bootstrap</td>
+               <td>Bootstrap <br> Foundation <br> Bulma</td>
+               <td></td>
                <td></td>
                <td></td>
            </tr>
@@ -236,6 +239,7 @@ I recommend starting with **C** as it's a powerful language that will significan
                   Vue.JS</td>
                <td>axios <br> fetch</td>
                <td>npm</td>
+               <td>jQuery</td>
            </tr>
        </tbody>
    </table>
@@ -289,7 +293,7 @@ I recommend starting with **C** as it's a powerful language that will significan
             - Follow any reputable channels on YouTube for DOM practice.
             - [GitHub - Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) An excellent resource to improve your code quality.
 
-      **Frameworks**:
+   3. **Frameworks**:
          - [**FreeCodeCamp: React Course 2022**](https://youtu.be/bMknfKXIFA8?si=2KHbKCc64zOmQRnk)
 
 
@@ -309,6 +313,7 @@ I recommend starting with **C** as it's a powerful language that will significan
                <td>Express.JS <br>
                    Meteor <br>
                    Kao.JS <br>
+                   Socket.io <br>
                    Nest.JS</td>
                <td>npm</td>
            </tr>
@@ -337,6 +342,113 @@ I recommend starting with **C** as it's a powerful language that will significan
 
 
 - **Full Stack**:
+
+     <table>
+       <thead align=center>
+           <tr>
+               <th>Framework</th>
+               <th>Database</th>
+               <th>Back-End</th>
+               <th>Front-End</th>
+               <th>Runtime Environment</th>
+           </tr>
+       </thead>
+       <tbody align=center>
+           <tr>
+               <td>MEAN</td>
+               <td>MongoDB</td>
+               <td>Express.JS</td>
+               <td>Angular</td>
+               <td>Node.JS</td>
+           </tr>
+           <tr>
+               <td>MERN</td>
+               <td>MongoDB</td>
+               <td>Express.JS</td>
+               <td>React.JS</td>
+               <td>Node.JS</td>
+           </tr>
+           <tr>
+               <td>-</td>
+               <td>-</td>
+               <td>Express.JS</td>
+               <td>Vue.JS</td>
+               <td>-</td>
+           </tr>
+       </tbody>
+   </table>
+
+  <table>
+       <thead align=center>
+           <tr>
+               <th>Framework</th>
+               <th>OS</th>
+               <th>Webserver</th>
+               <th>Database</th>
+               <th>Back-End</th>
+           </tr>
+       </thead>
+       <tbody align=center>
+           <tr>
+               <td>LAMP</td>
+               <td>Linux</td>
+               <td>Apache</td>
+               <td>MySQL</td>
+               <td>PHP</td>
+           </tr>
+           <tr>
+               <td>LEMP</td>
+               <td>Linux</td>
+               <td>Nginx <br> pronoounced "Engine-x"</td>
+               <td>MySQL <br> MariaDB</td>
+               <td>PHP <br> Perl <br> Python</td>
+           </tr>
+       </tbody>
+   </table>
+
+  <table>
+       <thead align=center>
+           <tr>
+               <th>Framework</th>
+               <th>Language based</th>
+           </tr>
+       </thead>
+       <tbody align=center>
+           <tr>
+               <td>Meteor</td>
+               <td>JavaScript(Node.JS)-based</td>
+           </tr>
+           <tr>
+               <td>Next.JS</td>
+               <td>React-based</td>
+           </tr>
+           <tr>
+               <td>Nuxt.JS</td>
+               <td>Vue.JS-based</td>
+           </tr>
+           <tr>
+               <td>Django</td>
+               <td>Python-based</td>
+           </tr>
+           <tr>
+               <td>Ruby on Rails (Rails)</td>
+               <td>Ruby-based</td>
+           </tr>
+           <tr>
+               <td>SpringBoot</td>
+               <td>Java-based</td>
+           </tr>
+           <tr>
+               <td>Laravel</td>
+               <td>PHP-based</td>
+           </tr>
+           <tr>
+               <td>ASP.NET</td>
+               <td>C#/.NET-based</td>
+           </tr>
+       </tbody>
+   </table>
+
    - [**ITI: MEAN Stack Course - Google Drive**](https://drive.google.com/drive/folders/1Pcv3XH7XL4TEbMEJqOQLNBK-INsgR5In?usp=drive_link)
   
 > [!NOTE]
