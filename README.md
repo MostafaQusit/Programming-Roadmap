@@ -65,6 +65,8 @@ Programming languages are divided into two main categories:
 2. **Declarative Programming Paradigm**:
    - **Functional Programming Paradigms**: e.g., LINQ in .NET
 
+- [Programming Paradigms and Practices](https://youtube.com/playlist?list=PLgAqrVq84PDc9rm_NUfKWRRjpZnd1RW_Q&si=p7yWiO7RzR33rAk-)
+
 #### - **Procedural Programming:**
 
 I recommend starting with **C** as it's a powerful language that will significantly impact your career.
@@ -97,13 +99,14 @@ I recommend starting with **C** as it's a powerful language that will significan
    - [**ITI: C++ OOP Course - Google Drive**](https://drive.google.com/drive/folders/1p_KpAUZ9m5SpBmxywfnVxZbEcXZ-kgT7?usp=drive_link)
    - [**C++ OOP Course by Dr. Al-Desouki**](https://youtube.com/playlist?list=PL1DUmTEdeA6KLEvIO0NyrkT91BVle8BOU&si=jPW8fjvGX1S0HJHL)
    - [**C++ OOP Course by Adel Nasim**](https://youtube.com/playlist?list=PLCInYL3l2Aaiq1oLvi9TlWtArJyAuCVow&si=u0ivlwNv1HLZAxgH)
+   - [**C++ Complete Course by Jenny**](https://youtube.com/playlist?list=PLdo5W4Nhv31YU5Wx1dopka58teWP9aCee&si=L_NLJ_6DloZxs4de)
 
-2. **I case of enroll in .NET**
+3. **I case of enroll in .NET**
    - **C# Syntax Overview**
    - [**ITI: C# OOP Lectures by Eng. Ahmed Mamdouh**](https://drive.google.com/drive/folders/1WbY2Doyapd6FJmM1-vU7A-0VutZMluS-?usp=drive_link)
    - [**ITI: C# OOP Lectures by Eng. Tharwat**](https://drive.google.com/drive/folders/18rQlFxVLuzE1B-hLyt3AITyQbPwnz8ZA?usp=drive_link)
 
-3. **JavaScript OOP**
+4. **JavaScript OOP**
    - **JavaScript Syntax Overview**
       - [by Abdelrahman Gamal]()
    - [ITI: Intro to Prog. & OOP using JS - Google Drive](https://drive.google.com/drive/folders/1uV9yvlpvGORXvb3UHl0hr4sbl5zgySJb?usp=drive_link)
@@ -128,10 +131,12 @@ I recommend starting with **C** as it's a powerful language that will significan
 3. [**ITI: C++ Data Structures Lectures by Eng. Ahmed Mamdouh - Google Drive**](https://drive.google.com/drive/folders/1p6BVDUR8Pzjxs0q2iuxiXF95eiK5oRKp?usp=drive_link)
    - _need to see one of the previous points_
 4. [**FreeCodeCamp: C/C++ Data Structures Course**](https://youtu.be/B31LgI4Y4DQ?si=EokHSvAyeYnwXY0z)
-5. [**C Data Structures Course by Dr. Waleed Youssef**](https://youtube.com/playlist?list=PLoK2Lr1miEm-5zCzKE8siQezj9rvQlnca&si=kH82xi3j6e_p9FF-)
-6. **C# Data Structures and Algorithm Course by Eng. Ahmed Metwally** [Visit the Facebook Account](https://www.facebook.com/ahmed.metwally.official)
+5. [**C++ Data structures and Algorithms - From Zero To Hero (still recording)**](https://youtube.com/playlist?list=PLs4xH3XPr55guaS_NY0SQ6dQabpXK0xQ6&si=7zMug4LeOP8XeSXC)
+6. [**C Data Structures Course by Dr. Waleed Youssef**](https://youtube.com/playlist?list=PLoK2Lr1miEm-5zCzKE8siQezj9rvQlnca&si=kH82xi3j6e_p9FF-)
+7. [**Data Structures and Algorithm Course by Jenny**](https://youtube.com/playlist?list=PLdo5W4Nhv31bbKJzrsKfMpo_grxuLl8LU&si=7PFfRo5R0GuFsGR5)
+8. **C# Data Structures and Algorithm Course by Eng. Ahmed Metwally** [Visit the Facebook Account](https://www.facebook.com/ahmed.metwally.official)
    - _but I recommend to you a hand-written pointer like C or C++_
-7. **JavaScript Data Structures and Algorithm Courses**:
+9. **JavaScript Data Structures and Algorithm Courses**:
    - [ZTM Course](https://zerotomastery.io/courses/learn-data-structures-and-algorithms/?fbclid=IwY2xjawE1hJRleHRuA2FlbQIxMAABHbjshbLnY3TzjRvwYVsImsJWokG6w2yKgY-NWEQ-6GS_TmELRoxygyVRpQ_aem_boiulr5CigyG67gWqSCGsg)
    - [Udemy Course](https://www.udemy.com/share/101X5s/)
    - [Arabic Course](https://youtube.com/playlist?list=PL9A8dCb7QSFEqrSfT9vCSJUS8IU4g1j2g&si=k3Gz16sh_t5jIXgK)
@@ -142,22 +147,31 @@ I recommend starting with **C** as it's a powerful language that will significan
 2. [**Algorithms Course by the famous Abdul Bari**](https://youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O&si=h8xlIbsZGDo9ZMpG)
 
 
-### **Step 8: Command Line**
+
+### **Step 8: Design Pattern, Design Principles and SOLID Principles**
+
+[**Design Pattern by Issam Abdelnabi**](https://youtube.com/playlist?list=PL4n1Qos4Tb6STYkwXrOdYxj_dlGqzozZN&si=czt6xEXfytqZMe_C)
+[**Design Principles by Issam Abdelnabi**](https://youtube.com/playlist?list=PL4n1Qos4Tb6ThSyydEJTm7xJ3qEwE8Oyu&si=yLyT0aqkzTz1Atk1)
+[**C# Practical Design Patterns/Principles & SOLID Principles by Emad Saber**](https://youtube.com/playlist?list=PL9v4AdW4bFkwsPWOI44aIvbNxD6QtlB2b&si=NxPDHwXECZ2GBgTy)
+
+
+### **Step 9: Command Line**
 
 [**ELzero: Command Line Basics Course**](https://youtube.com/playlist?list=PLDoPjvoNmBAxzNO8ixW83Sf8FnLy_MkUT&si=QVJ8DoLoZKfhWC8O)
 
 
-### **Step 9: Version Control**
+### **Step 10: Version Control**
 
 1. [**Git Course by Ahmed Samy**](https://youtu.be/Q6G-J54vgKc?si=qjyX-25ySQ46IFjO)
 2. [**ITI: Git Course - Google Drive**](https://drive.google.com/drive/folders/15GnZ4GEKXxzRzp4L95cbNLLt0pMsXgE7?usp=drive_link)
-3. **SuperSimpleDev: Git and GitHub Course**
+3. [**FreeCodeCamp: Learn Git – Full Course for Beginners**](https://youtu.be/zTjRZNkhiEU?si=WoJJPjIN-_TtHM3J)
+4. **SuperSimpleDev: Git and GitHub Course**
    - [Part 1](https://youtu.be/hrTQipWp6co?si=iH8zOqLCF_ni_QI2)
    - [Part 2](https://youtu.be/1ibmWyt8hfw?si=8GtzH5c4AOqvCHQr)
    - [Branching and Merging - Detailed](https://youtu.be/Q1kHG842HoI?si=w1-bpb03wz_QfTrq)
 
 
-### **Step 10: Databases**
+### **Step 11: Databases**
 
 1. **Dr. Al-Desouki's Database Course**  
    - [**Theoretical Part**](https://youtube.com/playlist?list=PL37D52B7714788190&si=xoXYETtg-0rQBpgt)
@@ -173,7 +187,8 @@ I recommend starting with **C** as it's a powerful language that will significan
    - [Notes and Summaries Repository by Eng. Mariem - GitHub](https://github.com/Mariem-Abdalwahab/SQL?fbclid=IwY2xjawEvToRleHRuA2FlbQIxMAABHWmDr1FZ-ufVg9RYJWrqOCR1dbREK3BD4vVoCwH3uaiA9OMjuJxUbVVtRA_aem_6NaaPV4klbLrWiyVYtledA)
      - _along with a Notion page._
 
-4. [**Tech Vault Channel by Dr. Amr Elhelw**](https://youtube.com/@techvault_)
+3. [**Tech Vault Channel by Dr. Amr Elhelw**](https://youtube.com/@techvault_)
+4. [**FreeCodeCamp: Intuitive SQL For Data Analytics - Tutorial**](https://youtu.be/mXW7JHJM34k?si=MFSLyPycc2xY9Yz_)
 5. [**Programming with Mosh: SQL(MySQL) Tutorial for Beginners**](https://youtu.be/7S_tz1z_5bA)
 6. [**CMU Database Courses**](https://db.cs.cmu.edu/courses/)
    - _Explore the database course offered by Carnegie Mellon University._
@@ -182,6 +197,10 @@ I recommend starting with **C** as it's a powerful language that will significan
    - [YouTube Channel](https://www.youtube.com/@hnasr)
    - [Udemy](https://www.udemy.com/share/102qug/)
 9. [**Database Course by Adel Nassim**](https://www.youtube.com/playlist...)
+
+#### Supplmental Tools
+- **ERD PLUS** in drawing Relational Models
+   - [use ERD Plus to Draw Relational Model professionally by Dr. Al-Desouki](https://youtu.be/dTu8bPvE2fo?si=vA0hjfyWBE0cLwRK)
 
 #### Practice Platforms
 1. [**LeetCode SQL Practice**](https://leetcode.com/studyplan/top-sql-50)
@@ -193,7 +212,12 @@ I recommend starting with **C** as it's a powerful language that will significan
 
 ## Common Sofware Tracks Bascis
 
+[Developer Roadmaps Website](https://roadmap.sh/)
+ - _a community effort to create roadmaps, guides and other educational content to help guide developers in picking up a path and guide their learnings._
+
 ### **Web Development**
+
+[FreeCodeCamp: The 2020 Web Developer Roadmap – A Visual Guide to Becoming a Front End, Back End, or DevOps Developer](https://www.freecodecamp.org/news/2019-web-developer-roadmap/#back-end-web-development-roadmap)
 
 - **Fornt-End**
 
@@ -206,6 +230,7 @@ I recommend starting with **C** as it's a powerful language that will significan
                <th rowspan=2>HTTP</th>
                <th rowspan=2>Package Manager</th>
                <th rowspan=2>Library</th>
+               <th rowspan=2>Compiler</th>
            </tr>
            <tr>
                <th>Bundler</th>
@@ -221,11 +246,13 @@ I recommend starting with **C** as it's a powerful language that will significan
                <td></td>
                <td></td>
                <td></td>
+               <td></td>
            </tr>
            <tr>
                <td>CSS</td>
                <td colspan=2>SASS</td>
                <td>Bootstrap <br> Foundation <br> Bulma</td>
+               <td></td>
                <td></td>
                <td></td>
                <td></td>
@@ -237,9 +264,10 @@ I recommend starting with **C** as it's a powerful language that will significan
                <td>React.JS <br>
                   Angular <br>
                   Vue.JS</td>
-               <td>axios <br> fetch</td>
-               <td>npm</td>
-               <td>jQuery</td>
+               <td>axios <br> fetch API</td>
+               <td>npm <br> yarn</td>
+               <td>jQuery <br> D3.JS</td>
+               <td>Babel</td>
            </tr>
        </tbody>
    </table>
@@ -298,13 +326,14 @@ I recommend starting with **C** as it's a powerful language that will significan
 
 
 - **Back-End**
-  
+  - Languages:
+    
      <table>
        <thead align=center>
            <tr>
-               <th>Language</th>
-               <th>Framework</th>
-               <th>Package Manager</th>
+               <th rowspan=2>Language</th>
+               <th rowspan=2>Framework</th>
+               <th rowspan=2>Package Manager</th>
            </tr>
        </thead>
        <tbody align=center>
@@ -315,7 +344,7 @@ I recommend starting with **C** as it's a powerful language that will significan
                    Kao.JS <br>
                    Socket.io <br>
                    Nest.JS</td>
-               <td>npm</td>
+               <td>npm <br> yarn</td>
            </tr>
            <tr>
                <td>Python</td>
@@ -335,10 +364,79 @@ I recommend starting with **C** as it's a powerful language that will significan
                    Hibernate</td>
                <td>Maven</td>
            </tr>
+           <tr>
+               <td>PHP</td>
+               <td>Laravel<br>
+                   Symfony</td>
+               <td></td>
+           </tr>
+           <tr>
+               <td>C#/.NET</td>
+               <td>ASP.NET Core<br>
+                   Entity Framework Core</td>
+               <td></td>
+           </tr>
+           <tr>
+               <td>GO(Golang)</td>
+               <td>Gin<br>
+                   Echo</td>
+               <td></td>
+           </tr>
        </tbody>
    </table>
-   
-   - API
+
+- API:
+
+   <table>
+       <thead align=center>
+           <tr>
+               <th>API</th>
+               <td>RESTful</td>
+               <td>SOAP</td>
+               <td>GraphQL</td>
+               <td>WebSocket</td>
+               <td>RPC</td>
+           </tr>
+       </thead>
+   </table>
+
+- Database & Queue:
+
+  <table>
+       <thead align=center>
+           <tr>
+               <th rowspan=3></th>
+               <th colspan=6>Database</th>
+               <th rowspan=3>Queue</th>
+           </tr>
+           <tr>
+               <th colspan=2>Primary Database</th>
+               <th rowspan=2>Cache Database</th>
+               <th rowspan=2>Search Database</th>
+               <th rowspan=2>Analytical Database</th>
+               <th rowspan=2>Image Storing <br> (Blob Storage + CDN)</th>
+           </tr>
+           <tr>
+               <th>SQL</th>
+               <th>NoSQL</th>
+           </tr>
+       </thead>
+       <tbody align=center>
+           <tr>
+               <td>Examples</td>
+               <td>MySQL <br> Postgrese</td>
+               <td>MongoDB</td>
+               <td>Redis</td>
+               <td>Elasticsearch</td>
+               <td>Snowflake</td>
+               <td>(AWS S3 + AWS Cloudfront)</td>
+               <td>RabbitMQ [Scheduled Tasks]</td>
+           </tr>
+       </tbody>
+   </table>
+
+
+   - [**Fundamentals of Backend Engineering by Hussein Nasser - Udemy**](https://www.udemy.com/share/107rGq/)
 
 
 - **Full Stack**:
@@ -446,42 +544,139 @@ I recommend starting with **C** as it's a powerful language that will significan
                <td>ASP.NET</td>
                <td>C#/.NET-based</td>
            </tr>
+           <tr>
+               <td>Svelte</td>
+               <td></td>
+           </tr>
+           <tr>
+               <td>Gatsby</td>
+               <td>React-based</td>
+           </tr>
+           <tr>
+               <td>Electron</td>
+               <td></td>
+           </tr>
        </tbody>
    </table>
 
    - [**ITI: MEAN Stack Course - Google Drive**](https://drive.google.com/drive/folders/1Pcv3XH7XL4TEbMEJqOQLNBK-INsgR5In?usp=drive_link)
-  
+   - [**Nginx Tutorial - What is Nginx**](https://youtu.be/iInUBOVeBCc?si=YugRi3v09lgqnYg0)
+
+- **Testing**
+  <table>
+       <thead align=center>
+           <tr>
+               <th>Test Type</th>
+               <th>Front-End</th>
+               <th>Back-End</th>
+           </tr>
+       </thead>
+       <tbody align=center>
+           <tr>
+               <td>Unit Testing</td>
+               <td>Jest <br> React Testing Library</td>
+               <td>Mocha <br> Chai</td>
+           </tr>
+           <tr>
+               <td>Integration Testing</td>
+               <td></td>
+               <td>Supertest</td>
+           </tr>
+           <tr>
+               <td>End-to-End Testing</td>
+               <td>Cypress <br> Selenium</td>
+               <td></td>
+           </tr>
+       </tbody>
+   </table>
+
+- **Deployment**
+   - Hosting Providers
+      - Fornt-End: Github, Vercel, Heroku, Netlify
+      - Back-End: AWS, DigitalOcean
+   - Domain Provider: nameCheap
+   - CI/CD
+
+- **DevOps**
+
+- **Tools**
+   - Docker
+   - Kubernetes
+   - Heroku
+
+- **Cloud Computing**
+
+     <table>
+       <thead align=center>
+           <tr>
+               <th rowspan=2></th>
+               <th colspan=4>Services</th>
+           </tr>
+           <tr>
+               <th>Infrastructure as a Service (IaaS) <br> [Rent VMs]</th>
+               <th>Platform as a Service (PaaS) <br> [Multi-MV and Load Balancer]</th>
+               <th>Microservices</th>
+               <th>Software as a Service (SaaS) <br> [Full Back-End and API]</th>
+           </tr>
+       </thead>
+       <tbody align=center>
+           <tr>
+               <td rowspan=3>Examples</td>
+               <td>Amazon Web Services (AWS)</td>
+               <td>AWS Elastic Beanstalk</td>
+               <td rowspan=3></td>
+               <td rowspan=3>Twilio</td>
+           </tr>
+           <tr>
+               <td>Google Cloud Platform</td>
+               <td>App Engine</td>
+           </tr>
+           <tr>
+               <td>Microsoft Azure</td>
+               <td>App Service</td>
+           </tr>
+       </tbody>
+   </table>
+
+
+
 > [!NOTE]
 > **If want to continue in Web Track, I recommend to you this Playlist**
 > [Beyond the basics](https://youtube.com/playlist?list=PL9ExMy1CBZjnsv2WXFKxXNf41iT1pdT2Q&si=jJJnFrfsXm7O1CGI)
 
 
 
-
 ### **Embedded Systems**
- - [Embedded Systems Campaines in Egypt - Google Sheet](https://docs.google.com/spreadsheets/d/1lBPSQ3yZEEMO3MmpxWzUJdor6vqfEBv6chjb4CWJd3k/edit?usp=drive_link)
- - [Embedded Systems Engineering Roadmap - GitHub](https://github.com/m3y54m/Embedded-Engineering-Roadmap)
+   - [Embedded Systems Campaines in Egypt - Google Sheet](https://docs.google.com/spreadsheets/d/1lBPSQ3yZEEMO3MmpxWzUJdor6vqfEBv6chjb4CWJd3k/edit?usp=drive_link)
+   - [Embedded Systems Engineering Roadmap - GitHub](https://github.com/m3y54m/Embedded-Engineering-Roadmap)
 
-1. **EDGES Academy: by Eng. Mohammed Tarek - Live**
-   - Embedded Systems
-2. **Embedded systems by Eng. Kirollos - Live**
-3. [**Eng. Ahmed Abdel Ghafar - Recorded(Google Drive)**](https://docs.google.com/document/d/1X7FlRX-Re-GHMI3wuXc9e37jJEGl_DlxNb-6NCMlmgo/edit?usp=drive_link)
-   - Embedded Systems
-   - Advanced: Automotive OSEK/VDX OS
-      - [Advanced Communications Tutorials by Ahmed Eldeeb](https://youtube.com/playlist?list=PLPFp2zIiTnxWaZioZMFrb2Cw1wiacD_oT&si=WEJk3QNgliZjoUiB)
-      - [STM32 ETHERNET Tutorials](https://youtube.com/playlist?list=PLfIJKC1ud8ggZKVtytWAlOS63vifF5iJC&si=rq3svP3vSW-m0p8b)
-   - Advanced: Introduction to Automotive Cybersecurity
-4. [**Embedded Linux by Eng. Moatasem - Live & Recorded**](https://docs.google.com/document/d/13DxCC0XP19mPhUORIC2ljhNbVNVACrw-dzXzWBJKTFs/edit?usp=drive_link)
+   1. **EDGES Academy: by Eng. Mohammed Tarek - Live**
+      - Embedded Systems
+   2. **Embedded systems by Eng. Kirollos - Live**
+   3. [**Eng. Ahmed Abdel Ghafar - Recorded(Google Drive)**](https://docs.google.com/document/d/1X7FlRX-Re-GHMI3wuXc9e37jJEGl_DlxNb-6NCMlmgo/edit?usp=drive_link)
+      - Embedded Systems
+      - Advanced: Automotive OSEK/VDX OS
+         - [Advanced Communications Tutorials by Ahmed Eldeeb](https://youtube.com/playlist?list=PLPFp2zIiTnxWaZioZMFrb2Cw1wiacD_oT&si=WEJk3QNgliZjoUiB)
+         - [STM32 ETHERNET Tutorials](https://youtube.com/playlist?list=PLfIJKC1ud8ggZKVtytWAlOS63vifF5iJC&si=rq3svP3vSW-m0p8b)
+      - Advanced: Introduction to Automotive Cybersecurity
+   4. [**Embedded Linux by Eng. Moatasem - Live & Recorded**](https://docs.google.com/document/d/13DxCC0XP19mPhUORIC2ljhNbVNVACrw-dzXzWBJKTFs/edit?usp=drive_link)
 
 
 ## Resources
-- [**FreeCodeCamp**](https://www.youtube.com/@freecodecamp)
-- **ITI**
-- **SimpleSuperDev**
-- **Elzero**
-- **Dr. Al-Desouki**
-- **Programming with Mosh**
-- **ZTM**
+- Arabic:
+   - **ITI**
+   - **Elzero**
+   - **Dr. Al-Desouki**
+- English:
+   - [**FreeCodeCamp**](https://www.youtube.com/@freecodecamp)
+   - **SimpleSuperDev**
+   - **Programming with Mosh**
+   - **ZTM**
+   - **Udemy**
+- Indian:
+   - [**Jenny's Lectures CS IT**](www.youtube.com/@JennyslecturesCSIT)
+   - [**Naresh i Technologies**](www.youtube.com/@NareshIT)
+   - [**Neso Academy**](www.youtube.com/@nesoacademy)
 
 ## Conclusion
 
