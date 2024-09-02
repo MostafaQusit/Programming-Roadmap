@@ -111,6 +111,9 @@ I recommend starting with **C** as it's a powerful language that will significan
       - [by Abdelrahman Gamal]()
    - [ITI: Intro to Prog. & OOP using JS - Google Drive](https://drive.google.com/drive/folders/1uV9yvlpvGORXvb3UHl0hr4sbl5zgySJb?usp=drive_link)
 
+5. **Python**
+   - [**Elzero: Mastering Python**](https://youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs&si=B6E9BLFyKyGwja1i)
+
 > [!NOTE]
 > After finish Programming Languages Step, this Repository has great docs about important topics
 > [**software development practices and design principles - GitHub**](https://github.com/joebew42/study-path?tab=readme-ov-file)
@@ -147,31 +150,41 @@ I recommend starting with **C** as it's a powerful language that will significan
 2. [**Algorithms Course by the famous Abdul Bari**](https://youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O&si=h8xlIbsZGDo9ZMpG)
 
 
+### **Step 8: Design Pattern, Design Principles**
 
-### **Step 8: Design Pattern, Design Principles and SOLID Principles**
-
-[**Design Pattern by Issam Abdelnabi**](https://youtube.com/playlist?list=PL4n1Qos4Tb6STYkwXrOdYxj_dlGqzozZN&si=czt6xEXfytqZMe_C)
-[**Design Principles by Issam Abdelnabi**](https://youtube.com/playlist?list=PL4n1Qos4Tb6ThSyydEJTm7xJ3qEwE8Oyu&si=yLyT0aqkzTz1Atk1)
-[**C# Practical Design Patterns/Principles & SOLID Principles by Emad Saber**](https://youtube.com/playlist?list=PL9v4AdW4bFkwsPWOI44aIvbNxD6QtlB2b&si=NxPDHwXECZ2GBgTy)
+- [**Design Pattern by Issam Abdelnabi**](https://youtube.com/playlist?list=PL4n1Qos4Tb6STYkwXrOdYxj_dlGqzozZN&si=czt6xEXfytqZMe_C)
+- [**Design Principles by Issam Abdelnabi**](https://youtube.com/playlist?list=PL4n1Qos4Tb6ThSyydEJTm7xJ3qEwE8Oyu&si=yLyT0aqkzTz1Atk1)
+- [**C# Practical Design Patterns/Principles & SOLID Principles by Emad Saber**](https://youtube.com/playlist?list=PL9v4AdW4bFkwsPWOI44aIvbNxD6QtlB2b&si=NxPDHwXECZ2GBgTy)
 
 
 ### **Step 9: Command Line**
 
-[**ELzero: Command Line Basics Course**](https://youtube.com/playlist?list=PLDoPjvoNmBAxzNO8ixW83Sf8FnLy_MkUT&si=QVJ8DoLoZKfhWC8O)
+- [**ELzero: Command Line Basics Course**](https://youtube.com/playlist?list=PLDoPjvoNmBAxzNO8ixW83Sf8FnLy_MkUT&si=QVJ8DoLoZKfhWC8O)
 
 
 ### **Step 10: Version Control**
 
-1. [**Git Course by Ahmed Samy**](https://youtu.be/Q6G-J54vgKc?si=qjyX-25ySQ46IFjO)
-2. [**ITI: Git Course - Google Drive**](https://drive.google.com/drive/folders/15GnZ4GEKXxzRzp4L95cbNLLt0pMsXgE7?usp=drive_link)
-3. [**FreeCodeCamp: Learn Git – Full Course for Beginners**](https://youtu.be/zTjRZNkhiEU?si=WoJJPjIN-_TtHM3J)
-4. **SuperSimpleDev: Git and GitHub Course**
+1. [**Elzero: Learn Git and Github 2020**](https://youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF&si=x612GWWvd_7feivh)
+2. [**Git and GitHub | شخبط وانت متطمن**](https://youtu.be/Q6G-J54vgKc?si=Sn8gebd4gNHC_nAP)
+3. [**Git Course by Ahmed Samy**](https://youtu.be/Q6G-J54vgKc?si=qjyX-25ySQ46IFjO)
+4. [**ITI: Git Course - Google Drive**](https://drive.google.com/drive/folders/15GnZ4GEKXxzRzp4L95cbNLLt0pMsXgE7?usp=drive_link)
+5. [**FreeCodeCamp: Learn Git – Full Course for Beginners**](https://youtu.be/zTjRZNkhiEU?si=WoJJPjIN-_TtHM3J)
+6. **SuperSimpleDev: Git and GitHub Course**
    - [Part 1](https://youtu.be/hrTQipWp6co?si=iH8zOqLCF_ni_QI2)
    - [Part 2](https://youtu.be/1ibmWyt8hfw?si=8GtzH5c4AOqvCHQr)
    - [Branching and Merging - Detailed](https://youtu.be/Q1kHG842HoI?si=w1-bpb03wz_QfTrq)
 
 
-### **Step 11: Databases**
+### **Step 11: Software Testing**
+
+_must be in order_
+1. [**Maharatech: Introduction to Software Testing Concepts & Techniques Course**](https://maharatech.gov.eg/course/view.php?id=2)
+2. [**Maharatech: ISTQB Foundation Level Course**](https://maharatech.gov.eg/course/view.php?id=34)
+3. [**Maharatech: Effective Test Case and Bug Report Writing Techniques Course**](https://maharatech.gov.eg/course/view.php?id=4)
+
+
+
+### **Step 12: Databases**
 
 1. **Dr. Al-Desouki's Database Course**  
    - [**Theoretical Part**](https://youtube.com/playlist?list=PL37D52B7714788190&si=xoXYETtg-0rQBpgt)
@@ -324,6 +337,10 @@ I recommend starting with **C** as it's a powerful language that will significan
    3. **Frameworks**:
          - [**FreeCodeCamp: React Course 2022**](https://youtu.be/bMknfKXIFA8?si=2KHbKCc64zOmQRnk)
 
+
+> [!NOTE]
+> **If want to continue in Web Track, I recommend to you this Playlist**
+> [Beyond the basics](https://youtube.com/playlist?list=PL9ExMy1CBZjnsv2WXFKxXNf41iT1pdT2Q&si=jJJnFrfsXm7O1CGI)
 
 - **Back-End**
   - Languages:
@@ -606,43 +623,37 @@ I recommend starting with **C** as it's a powerful language that will significan
 
 - **Cloud Computing**
 
-     <table>
-       <thead align=center>
-           <tr>
-               <th rowspan=2></th>
-               <th colspan=4>Services</th>
-           </tr>
-           <tr>
-               <th>Infrastructure as a Service (IaaS) <br> [Rent VMs]</th>
-               <th>Platform as a Service (PaaS) <br> [Multi-MV and Load Balancer]</th>
-               <th>Microservices</th>
-               <th>Software as a Service (SaaS) <br> [Full Back-End and API]</th>
-           </tr>
-       </thead>
-       <tbody align=center>
-           <tr>
-               <td rowspan=3>Examples</td>
-               <td>Amazon Web Services (AWS)</td>
-               <td>AWS Elastic Beanstalk</td>
-               <td rowspan=3></td>
-               <td rowspan=3>Twilio</td>
-           </tr>
-           <tr>
-               <td>Google Cloud Platform</td>
-               <td>App Engine</td>
-           </tr>
-           <tr>
-               <td>Microsoft Azure</td>
-               <td>App Service</td>
-           </tr>
+  <table>
+    <thead align=center>
+        <tr>
+            <th rowspan=2></th>
+            <th colspan=4>Services</th>
+        </tr>
+        <tr>
+            <th>Infrastructure as a Service (IaaS) <br> [Rent VMs]</th>
+            <th>Platform as a Service (PaaS) <br> [Multi-MV and Load Balancer]</th>
+            <th>Microservices</th>
+            <th>Software as a Service (SaaS) <br> [Full Back-End and API]</th>
+        </tr>
+    </thead>
+    <tbody align=center>
+        <tr>
+            <td rowspan=3>Examples</td>
+            <td>Amazon Web Services (AWS)</td>
+            <td>AWS Elastic Beanstalk</td>
+            <td rowspan=3></td>
+            <td rowspan=3>Twilio</td>
+        </tr>
+        <tr>
+            <td>Google Cloud Platform</td>
+            <td>App Engine</td>
+        </tr>
+        <tr>
+            <td>Microsoft Azure</td>
+            <td>App Service</td>
+        </tr>
        </tbody>
    </table>
-
-
-
-> [!NOTE]
-> **If want to continue in Web Track, I recommend to you this Playlist**
-> [Beyond the basics](https://youtube.com/playlist?list=PL9ExMy1CBZjnsv2WXFKxXNf41iT1pdT2Q&si=jJJnFrfsXm7O1CGI)
 
 
 
@@ -650,30 +661,37 @@ I recommend starting with **C** as it's a powerful language that will significan
    - [Embedded Systems Campaines in Egypt - Google Sheet](https://docs.google.com/spreadsheets/d/1lBPSQ3yZEEMO3MmpxWzUJdor6vqfEBv6chjb4CWJd3k/edit?usp=drive_link)
    - [Embedded Systems Engineering Roadmap - GitHub](https://github.com/m3y54m/Embedded-Engineering-Roadmap)
 
-   1. **EDGES Academy: by Eng. Mohammed Tarek - Live**
-      - Embedded Systems
-   2. **Embedded systems by Eng. Kirollos - Live**
-   3. [**Eng. Ahmed Abdel Ghafar - Recorded(Google Drive)**](https://docs.google.com/document/d/1X7FlRX-Re-GHMI3wuXc9e37jJEGl_DlxNb-6NCMlmgo/edit?usp=drive_link)
-      - Embedded Systems
-      - Advanced: Automotive OSEK/VDX OS
+   - **Full Course (Diploma)**
+      1. [**EDGES Academy: by Eng. Mohammed Tarek - Live**](https://www.facebook.com/profile.php?id=100095230525813)
+      2. [**Eng. Ahmed Abdel Ghafar - Recorded(Google Drive)**](https://docs.google.com/document/d/1X7FlRX-Re-GHMI3wuXc9e37jJEGl_DlxNb-6NCMlmgo/edit?usp=drive_link)
+         - Embedded Systems
+         - Advanced: Automotive OSEK/VDX OS
+         - Advanced: Introduction to Automotive Cybersecurity
+      3. **Embedded Linux by Eng. Moatasem**
+         - [**Master Embedded Linux Content 2024 - Live & Recorded**](https://docs.google.com/document/d/13DxCC0XP19mPhUORIC2ljhNbVNVACrw-dzXzWBJKTFs/edit?usp=drive_link)
+         - [**YouTube Channel**](www.youtube.com/@moatasemelsayed6226)
+         - [**GitHub Account**](https://github.com/Moatasem-Elsayed)
+      4. [**Embedded Systems by Ahmed Eldeeb - Channel**](www.youtube.com/@ahmedeldeep)
+
+   - **Topics meterials**
+      1. **Advanced Automotive topics**
          - [Advanced Communications Tutorials by Ahmed Eldeeb](https://youtube.com/playlist?list=PLPFp2zIiTnxWaZioZMFrb2Cw1wiacD_oT&si=WEJk3QNgliZjoUiB)
          - [STM32 ETHERNET Tutorials](https://youtube.com/playlist?list=PLfIJKC1ud8ggZKVtytWAlOS63vifF5iJC&si=rq3svP3vSW-m0p8b)
-      - Advanced: Introduction to Automotive Cybersecurity
-   4. [**Embedded Linux by Eng. Moatasem - Live & Recorded**](https://docs.google.com/document/d/13DxCC0XP19mPhUORIC2ljhNbVNVACrw-dzXzWBJKTFs/edit?usp=drive_link)
-
 
 ## Resources
-- Arabic:
+- **Arabic**:
    - **ITI**
-   - **Elzero**
-   - **Dr. Al-Desouki**
-- English:
+   - [**Elzero**](www.youtube.com/@ElzeroWebSchool)
+   - [**Dr. Al-Desouki**](www.youtube.com/@DesoukiEgypt)
+   - [**Big Data بالعربي**](www.youtube.com/@bigdata4756)
+   - [**Maharatech**](https://maharatech.gov.eg/)
+- **International**
    - [**FreeCodeCamp**](https://www.youtube.com/@freecodecamp)
-   - **SimpleSuperDev**
-   - **Programming with Mosh**
-   - **ZTM**
-   - **Udemy**
-- Indian:
+   - [**SimpleSuperDev**](www.youtube.com/@SuperSimpleDev)
+   - [**Programming with Mosh**](www.youtube.com/@programmingwithmosh)
+   - [**ZTM**](https://zerotomastery.io/)
+   - [**Udemy**](https://www.udemy.com/)
+- **Indian**
    - [**Jenny's Lectures CS IT**](www.youtube.com/@JennyslecturesCSIT)
    - [**Naresh i Technologies**](www.youtube.com/@NareshIT)
    - [**Neso Academy**](www.youtube.com/@nesoacademy)
