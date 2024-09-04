@@ -34,7 +34,8 @@ The main issue is often in the basics because the knowledge builds upon itself. 
    - [First step to study programming](https://youtu.be/r-zQtvKiiCI?si=4FO6_BYsQFefB0Kp)
    - [My choice of OS](https://youtu.be/z1-yuolwrVs?si=R58UUGNKwe4cMDUQ)
    - [Introduction to Programming Basics for Beginners Course || Programming Literacy (Python)](https://youtu.be/06h470AiBZ4?si=9pRGEVOKZrwpp2xc)
- 
+ 4. [CS50's Introduction to Computer Science](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science)
+    - _a heavy intro. course_
 
 ### **Step 2: Operating Systems**
    - _the layer between app and hardware._
