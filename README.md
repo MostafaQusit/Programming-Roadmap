@@ -660,6 +660,7 @@ _must be in order_
 ### **Embedded Systems**
    - [Embedded Systems Campaines in Egypt - Google Sheet](https://docs.google.com/spreadsheets/d/1lBPSQ3yZEEMO3MmpxWzUJdor6vqfEBv6chjb4CWJd3k/edit?usp=drive_link)
    - [Embedded Systems Engineering Roadmap - GitHub](https://github.com/m3y54m/Embedded-Engineering-Roadmap)
+   - [Embedded Systems Article](https://open4tech.com/category/embedded-systems/)
 
    - **Full Course (Diploma)**
       1. [**EDGES Academy: by Eng. Mohammed Tarek - Live**](https://www.facebook.com/profile.php?id=100095230525813)
@@ -673,8 +674,17 @@ _must be in order_
          - [**GitHub Account**](https://github.com/Moatasem-Elsayed)
       4. [**Embedded Systems by Ahmed Eldeeb - Channel**](www.youtube.com/@ahmedeldeep)
 
-   - **Topics meterials**
-      1. **Advanced Automotive topics**
+   - **Specific Topics meterials**
+      1. **Bootloader**
+         - [Introduction to Bootloader Design for Microcontrollers by Jacob Beningo](https://youtu.be/fPDOMTqdfsY?si=5RAvCisZSK2BqZns)
+      
+      2. **AUTOSAR**
+         - [AUTOSAR Methodology (The Full lifecycle)](https://youtu.be/DO-25WmzM8Y?si=8eU1oUTcGmvUkztT)
+         - [autosarz: AUTOSAR Architecture Tutorials](https://youtube.com/playlist?list=PLBexx18HrzLk_IalP3UY2Y3YOd5nh8pUi&si=GX6akyHe68UhDjkx)
+         - [AUTOSAR Communication Stack (ComStack)](https://youtu.be/maYxKDhd8N0?si=pV_SSYQct--MwgM6)
+         - [Vector: fundamental AUTOSAR concepts article](https://elearning.vector.com/mod/page/view.php?id=437)
+      
+      3. **Advanced Automotive topics**
          - [Advanced Communications Tutorials by Ahmed Eldeeb](https://youtube.com/playlist?list=PLPFp2zIiTnxWaZioZMFrb2Cw1wiacD_oT&si=WEJk3QNgliZjoUiB)
          - [STM32 ETHERNET Tutorials](https://youtube.com/playlist?list=PLfIJKC1ud8ggZKVtytWAlOS63vifF5iJC&si=rq3svP3vSW-m0p8b)
 
@@ -689,6 +699,8 @@ _must be in order_
    - [**FreeCodeCamp**](https://www.youtube.com/@freecodecamp)
    - [**SimpleSuperDev**](www.youtube.com/@SuperSimpleDev)
    - [**Programming with Mosh**](www.youtube.com/@programmingwithmosh)
+   - [**Quantum Leaps, LLC**](www.youtube.com/@StateMachineCOM)
+   - [W3 Schools](https://www.w3schools.com/)
    - [**ZTM**](https://zerotomastery.io/)
    - [**Udemy**](https://www.udemy.com/)
 - **Indian**
