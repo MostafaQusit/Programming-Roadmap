@@ -578,6 +578,7 @@ _must be in order_
    </table>
 
    - [**ITI: MEAN Stack Course - Google Drive**](https://drive.google.com/drive/folders/1Pcv3XH7XL4TEbMEJqOQLNBK-INsgR5In?usp=drive_link)
+   - [**NodeJS Roadmap - GitHub**](https://github.com/MoARABY/NodeJS-Roadmap)
    - [**Nginx Tutorial - What is Nginx**](https://youtu.be/iInUBOVeBCc?si=YugRi3v09lgqnYg0)
 
 - **Testing**
